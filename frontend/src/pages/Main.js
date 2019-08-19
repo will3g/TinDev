@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import io from 'socket.io-client';
 import { Link } from 'react-router-dom';
 import './Main.css';
@@ -68,7 +68,7 @@ export default function Main({ match }) {
 
     return ( 
         <div className = 'main-container' >
-        <Link to="/login">
+        <Link>
             <img src = { Logo } alt = 'Tindev'/>
         </Link> 
         {users.length > 0 ? ( 
