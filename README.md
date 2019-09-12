@@ -1,9 +1,9 @@
-# Semana OmniStack 8
+# TinDev
 
 ### **Objetivo**
  Este repositório é destinado ao aplicativo **TinDev**, que tem como função criar **Startups**, **Projetos** e **Novas tecnologias** encontrando por meio do **GitHub** desenvolvedores com idéias e gostos parecidos.
 
- **OBS:** Projeto desenvolvido em **uma semana** por meio do envento da Rocketseat.
+ **OBS:** Projeto desenvolvido em **uma semana** por meio do evento semana OmniStack da Rocketseat.
 
 # **Funcionalidades**
 No momento o usuário se cadastra (ou faz login) somente com o nome de usuário do **GitHub** e fazendo **match** em real-time por meio da lib **socket.io**.
